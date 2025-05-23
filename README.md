@@ -1,37 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 📋 Assignment Overview
 
-## Getting Started
+This project was created as part of the **BeyondChats internship assignment**. The goal was to replicate the UI and key functionalities shown in the Intercom AI Admin Panel demo video provided.
 
-First, run the development server:
+### 🧠 Objective:
+Build an AI-powered support interface where customer support agents can:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- View incoming user support emails
+- See sender details and original messages
+- Generate AI-based smart replies using Google Gemini 1.5 Flash
+- Review, edit, and send responses
+- Maintain context across multiple conversations
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 📹 Reference:
+The assignment was based on this Intercom-style admin demo video:  
+🔗 [Assignment Demo Video](https://drive.google.com/file/d/1WVvh4VmKJQ6jisIbzfutVmmeZj7IuD4c/view?usp=sharing)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 🎯 Evaluation Criteria (from assignment prompt):
+- ✅ UI/UX and color scheme fidelity
+- ✅ Replication of layout and flow
+- ✅ Mobile responsiveness
+- ✅ Functional AI integration (dummy or real)
+- ✅ Coding best practices and code readability
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# AI_customer_service
+## 🔗 Live Project
+👉 [View Live on Vercel](https://ai-customer-service-sepia.vercel.app)
